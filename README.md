@@ -1,6 +1,6 @@
 # Strategy-Pattern
 
-Software Construction and Unit Testing and Valgrind
+Software Construction & Unit Testing & Valgrind
 
 ## Description
 
